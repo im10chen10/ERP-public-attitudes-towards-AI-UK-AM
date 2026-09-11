@@ -8,7 +8,7 @@ The survey data are from the Ada Lovelace Institute and the Alan Turing Institut
 
 https://github.com/AdaLovelaceInstitute/wave-2---how-do-people-feel-about-AI-/blob/main/README.md
 
-Download the raw CSV file and save it into this `data/` folder before running `Subm_Ada_analysis.ipynb`. The notebook reads the file with Latin-1 encoding. The specific variables used are the sixteen attitude items (BenFR, ConFR, BenWB, ConWB, BenCancer, ConCancer, BenLoan, ConLoan, BenLLM, ConLLM, BenChatbot, ConChatbot, BenRoboCare, ConRoboCare, BenCar, ConCar) and the six demographic covariates (Cur_Sex, Cur_AgeCat, Cur_HEdQual, Cur_PartyID5, Cur_RClassGp, Cur_EconAct5).
+Download the raw CSV file and save it into this `data/` folder before running `Subm_Ada analysis.ipynb`. The notebook reads the file with Latin-1 encoding. The specific variables used are the sixteen attitude items (BenFR, ConFR, BenWB, ConWB, BenCancer, ConCancer, BenLoan, ConLoan, BenLLM, ConLLM, BenChatbot, ConChatbot, BenRoboCare, ConRoboCare, BenCar, ConCar) and the six demographic covariates (Cur_Sex, Cur_AgeCat, Cur_HEdQual, Cur_PartyID5, Cur_RClassGp, Cur_EconAct5).
 
 ## Reddit corpus
 
