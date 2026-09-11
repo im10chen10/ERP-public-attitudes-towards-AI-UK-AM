@@ -1,0 +1,5 @@
+Source,Pearson r,Pearson exact p,Spearman rho,Spearman exact p
+Population,-0.216,0.7167,-0.3,0.6833
+Enthusiasts,-0.101,0.8833,-0.3,0.6833
+Moderates,-0.218,0.7167,-0.3,0.6833
+Sceptics,-0.341,0.6,-0.1,0.95

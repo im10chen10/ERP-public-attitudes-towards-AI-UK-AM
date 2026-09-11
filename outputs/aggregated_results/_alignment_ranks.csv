@@ -1,0 +1,9 @@
+domain,survey_concern,reddit_mean_compound,reddit_neg_intensity,reddit_n,inclusion
+Car,3.062,-0.0001,0.0001,9,sensitivity only (n=9 < 10)
+Chatbot,2.854,,,0,excluded: n=0
+RoboCare,2.788,0.1557,-0.1557,1,excluded: semantic false positive + n=1
+WB,2.728,0.1111,-0.1111,22,primary
+LLM,2.543,0.1512,-0.1512,126,primary
+Loan,2.539,0.0691,-0.0691,4,sensitivity only (n=4 < 10)
+FR,2.282,-0.0949,0.0949,17,primary
+Cancer,2.175,-0.5352,0.5352,2,excluded: VADER lexicon bias (see Discussion)
