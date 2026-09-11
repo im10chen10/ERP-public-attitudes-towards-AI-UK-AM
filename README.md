@@ -4,7 +4,7 @@ This repository holds the code and aggregated statistical outputs for the ERP re
 
 ## Contents
 
-`notebooks/` contains the three Jupyter notebooks used in the analysis. `Subm_Ada_analysis.ipynb` covers all survey-based analysis (preprocessing, descriptive statistics, latent class analysis, multinomial logistic regression and both robustness checks). `Subm_Reddit_analysis.ipynb` includes Reddit corpus construction, sentiment scoring and cross-modal alignment. `submission_archive_anonymisation.ipynb` is a standalone script that produces an anonymised version of the Reddit archive.
+`notebook/` contains the three Jupyter notebooks used in the analysis. `Subm_Ada_analysis.ipynb` covers all survey-based analysis (preprocessing, descriptive statistics, latent class analysis, multinomial logistic regression and both robustness checks). `Subm_Reddit_analysis.ipynb` includes Reddit corpus construction, sentiment scoring and cross-modal alignment. `submission_archive_anonymisation.ipynb` is a standalone script that produces an anonymised version of the Reddit archive.
 
 `outputs/figures/` contains the ten figures used in the report. `outputs/aggregated_results/` contains the domain-level and class-level statistical summaries used as inputs to the alignment analysis. These files hold aggregated statistics only and contain no post text.
 
